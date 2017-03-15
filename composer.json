@@ -1,0 +1,8 @@
+{
+    "name": "hhery_000/time-prediction",
+    "description": "Composer init",
+    "require": {
+        "laravel/lumen-installer": "^1.0"
+    },
+    "license": "MIT"
+}
